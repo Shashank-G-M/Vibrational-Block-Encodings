@@ -1,0 +1,22 @@
+Input trbt is not symmetrized. Proceeding to symmetrize it.
+
+QROAM ancilla cost: 14
+QROAM inverse ancilla cost: 13
+
+Cost of PREP:  1.82e+05
+Cost of SEL:  2.41e+03
+Cost of BE:  1.91e+05
+LCU 1-norm:  1.93e+05 cm-1
+# of walks:  3.03e+05
+Toffoli cost of THC LCU:  5.79679e+10
+Qubit cost of THC LCU: 321
+
+Molecule:  pah1
+Basis:  VSCF_basis
+Modals per mode:  3
+THC rank:  [4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 4, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5]
+Avg THC rank:  4.433333333333334
+Mode coupling level:  3
+
+Tensor approximation error: 1 cm-1
+Target accuracy in energy: 1 cm-1

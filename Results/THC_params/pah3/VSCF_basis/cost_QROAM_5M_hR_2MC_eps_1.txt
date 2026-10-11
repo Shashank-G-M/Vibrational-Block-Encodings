@@ -1,0 +1,4 @@
+QROAM_type	clean_ancillas	Toffoli_cost	qubit_cost	spacetime_improvement
+dirty	N/A	39831317152	593	1.000000
+clean	990	15722170464	1468	1.023389
+clean	2310	12866900640	2491	0.736939

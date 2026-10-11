@@ -1,0 +1,24 @@
+cutoff used =  13
+Number of bits used to approximate LCU coefficients:  20
+Number of LCU coefficients to load:  1618
+Warning: Insufficient dirty qubits (76). QROAM requires at least twice the volume (120.0). Defaulting to standard QROM.
+
+QROAM ancilla cost: 11
+QROAM inverse ancilla cost: 7
+
+Cost of PREP:  1.72e+03
+Cost of SEL:  1.93e+02
+Cost of BE:  2.24e+03
+LCU 1-norm:  1.49e+05 cm-1
+# of walks:  2.34e+04
+Toffoli cost of Sparse Pauli LCU:  5.33615e+07
+Qubit cost of Sparse Pauli LCU: 192.0
+
+Molecule:  CH4
+Basis:  HO_basis
+Modals per mode:  4
+Mode coupling level:  2
+
+Relative error in tensor approximation: 0.0472 cm-1
+Absolute error in tensor approximation: 370 cm-1
+Target accuracy in energy: 10 cm-1

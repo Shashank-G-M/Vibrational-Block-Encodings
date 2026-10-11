@@ -1,0 +1,21 @@
+
+QROAM ancilla cost: 11
+QROAM inverse ancilla cost: 10
+
+Cost of PREP:  2.01e+04
+Cost of SEL:  4.25e+03
+Cost of BE:  2.62e+04
+LCU 1-norm:  9.65e+05 cm-1
+# of walks:  1.52e+06
+Toffoli cost of THC LCU:  3.98313e+10
+Qubit cost of THC LCU: 593
+
+Molecule:  pah3
+Basis:  VSCF_basis
+Modals per mode:  5
+THC rank:  [6, 6, 6, 6, 6, 6, 6, 7, 6, 6, 6, 6, 6, 6, 7, 6, 6, 6, 6, 6, 8, 7, 6, 7, 6, 7, 6, 6, 6, 6, 7, 7, 7, 7, 7, 6, 6, 7, 6, 7, 7, 6, 7, 7, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 8, 8, 7, 6, 7, 8, 7, 6, 7, 7]
+Avg THC rank:  6.575757575757576
+Mode coupling level:  2
+
+Tensor approximation error: 1 cm-1
+Target accuracy in energy: 1 cm-1

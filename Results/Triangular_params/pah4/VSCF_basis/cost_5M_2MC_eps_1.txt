@@ -1,0 +1,10 @@
+Singular value cutoff used:  0.06843
+Number of coefficients to load:  124717.0
+Error in tbt tensor approximation =  0.9957564705215582
+Triangular LCU one norm: 5.19e+06 cm-1
+Cost of Block Encoding: 1.28e+06
+Toffoli cost lower bound: 1.04e+13
+Qubit cost of Triangular LCU:  579
+
+Tensor approximation error:  1 cm-1
+Target accuracy in energy:  1 cm-1

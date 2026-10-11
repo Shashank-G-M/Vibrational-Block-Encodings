@@ -1,0 +1,23 @@
+cutoff used =  0.00313
+Error in tensor approximation =  0.997758049151407
+Number of bits used to approximate LCU coefficients:  20
+Number of LCU coefficients to load:  389215
+
+QROAM ancilla cost: 12
+QROAM inverse ancilla cost: 13
+
+Cost of PREP:  2.76e+05
+Cost of SEL:  7.31e+02
+Cost of BE:  2.83e+05
+LCU 1-norm:  3.35e+05 cm-1
+# of walks:  5.26e+05
+Toffoli cost of Sparse Pauli LCU:  1.49096e+11
+Qubit cost of Sparse Pauli LCU: 293.0
+
+Molecule:  pah1
+Basis:  VSCF_basis
+Modals per mode:  3
+Mode coupling level:  3
+
+Tensor approximation error: 1 cm-1
+Target accuracy in energy: 1 cm-1
