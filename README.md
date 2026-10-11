@@ -43,7 +43,7 @@ The `vib_frags` package provides utilities for:
 
 ### Hamiltonians
 
-The Hamiltonian files used by the example notebooks are distributed separately because of their size. Their contents, download instructions, and expected directory structure are documented in `Hamiltonians/README.md`.
+Small Hamiltonian files are included in this repository so that the basic examples can be run directly. The larger PAH Hamiltonians are distributed separately. Their contents, download instructions, and expected directory structure are documented in `Hamiltonians/README.md`.
 
 ### Results
 
