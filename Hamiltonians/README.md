@@ -16,7 +16,7 @@ The larger polycyclic aromatic hydrocarbon (PAH) Hamiltonians are distributed se
 - **Archive:** `PAH_Hamiltonians.zip`
 - **DOI:** [10.5281/zenodo.23305214](https://doi.org/10.5281/zenodo.23305214)
 
-The archive contains the seven two-mode-coupling PAH Hamiltonians and the PAH1 and PAH2 three-mode-coupling Hamiltonians used in the paper.
+The archive contains the seven two-mode-coupling PAH Hamiltonians and the PAH1 and PAH2 three-mode-coupling Hamiltonians used in the paper. It also includes precomputed CP3-initialized tensor hypercontraction (THC) parameters used as a precursor to the Triangular LCU decomposition of the three-mode-coupling Hamiltonians.
 
 Download and extract the archive inside this `Hamiltonians` directory while preserving its internal structure. The resulting layout should begin with:
 
