@@ -6,9 +6,9 @@ This repository contains the code and numerical results accompanying the paper:
 
 The project implements and analyzes several linear-combination-of-unitaries representations of vibrational Hamiltonians:
 
-- Triangular LCU
-- Pauli and BLISS-Pauli LCUs
-- Tensor hypercontraction (THC) and BLISS-THC LCUs
+- Triangular LCU ([previous work](https://doi.org/10.1021/acs.jctc.5c01419))
+- Pauli and BLISS-Pauli LCUs (this work)
+- Tensor hypercontraction (THC) and BLISS-THC LCUs (this work)
 
 It also includes tensor-factorization routines, quantum phase estimation resource estimates, eigensolvers, example notebooks, and scripts used to generate the figures in the paper.
 
