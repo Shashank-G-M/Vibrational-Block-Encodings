@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the associated publication."
+title: "Vibrational Block Encodings"
+authors:
+  - family-names: "Mehendale"
+    given-names: "Shashank G."
+type: software
+version: "1.0"
+date-released: 2026-10-12
+repository-code: "https://github.com/Shashank-G-M/Vibrational-Block-Encodings"
+url: "https://github.com/Shashank-G-M/Vibrational-Block-Encodings/releases/tag/v1.0"
