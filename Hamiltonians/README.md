@@ -6,8 +6,8 @@ This directory contains the vibrational Hamiltonians used with the code and exam
 
 The following smaller datasets are included directly in the GitHub repository:
 
-- `Trotter_Hamiltonians/`: Hamiltonians for H$_2$S, CO$_2$, CH$_2$O, and CH$_4$.
-- `Energy_vs_tensor_error_Hamiltonians/`: Hamiltonians for the CH$_4$ and C$_2$H$_4$ tensor-error analysis.
+- `Trotter_Hamiltonians/`: Hamiltonians for H<sub>2</sub>S, CO<sub>2</sub>, CH<sub>2</sub>O, and CH<sub>4</sub>.
+- `Energy_vs_tensor_error_Hamiltonians/`: Hamiltonians for the CH<sub>4</sub> and C<sub>2</sub>H<sub>4</sub> tensor-error analysis.
 
 ## PAH Hamiltonians
 
